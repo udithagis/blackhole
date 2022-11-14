@@ -19,3 +19,7 @@ c5.rgstatic.net
 instergram.com
 static.cdninstagram.com
 cdninstagram.com
+# 
+www.bilibili.tv
+p.bstarstatic.com
+bstarstatic.com
