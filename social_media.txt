@@ -23,3 +23,11 @@ cdninstagram.com
 www.bilibili.tv
 p.bstarstatic.com
 bstarstatic.com
+#
+linkedin.com
+static-exp1.licdn.com
+#
+tinder.com
+#
+gossip.hirufm.lk
+hirufm.lk
