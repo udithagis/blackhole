@@ -1,41 +1,43 @@
-m.facebook.com
-facebook.com
-facebook.net
-fbcdn.net
-fb.com
-fb.net
-static.xx.fbcdn.net
-web.facebook.com
-web.facebook.com
-apps.facebook.com
-graph.facebook.com
-mbasic.facebook.com
-mbasic.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 facebook.net
+0.0.0.0 fbcdn.net
+0.0.0.0 fb.com
+0.0.0.0 fb.net
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 web.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 mbasic.facebook.com
+0.0.0.0 mbasic.facebook.com
 #
-googlevideo.com
-ytimg.com
-youtube.com
-youtube-ui.l.google.com
-ytimg.l.google.com
-ytstatic.l.google.com
-youtubei.googleapis.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 ytstatic.l.google.com
+0.0.0.0 youtubei.googleapis.com
 #
-researchgate.net
-rgstatic.net
-c5.rgstatic.net
+0.0.0.0 researchgate.net
+0.0.0.0 rgstatic.net
+0.0.0.0 c5.rgstatic.net
 #
-instergram.com
-static.cdninstagram.com
-cdninstagram.com
+0.0.0.0 instergram.com
+0.0.0.0 static.cdninstagram.com
+0.0.0.0 cdninstagram.com
 # 
-www.bilibili.tv
-p.bstarstatic.com
-bstarstatic.com
+0.0.0.0 www.bilibili.tv
+0.0.0.0 p.bstarstatic.com
+0.0.0.0 bstarstatic.com
 #
-linkedin.com
-static-exp1.licdn.com
+0.0.0.0 linkedin.com
+0.0.0.0 static-exp1.licdn.com
 #
-tinder.com
+0.0.0.0 tinder.com
 #
-gossip.hirufm.lk
-hirufm.lk
+0.0.0.0 gossip.hirufm.lk
+0.0.0.0 hirufm.lk
+
+
