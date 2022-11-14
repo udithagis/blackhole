@@ -1,8 +1,16 @@
+m.facebook.com
 facebook.com
 facebook.net
 fbcdn.net
 fb.com
 fb.net
+static.xx.fbcdn.net
+web.facebook.com
+web.facebook.com
+apps.facebook.com
+graph.facebook.com
+mbasic.facebook.com
+mbasic.facebook.com
 #
 googlevideo.com
 ytimg.com
