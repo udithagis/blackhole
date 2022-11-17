@@ -1,0 +1,42 @@
+#
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 ytstatic.l.google.com
+0.0.0.0 youtubei.googleapis.com
+#
+googlevideo.com
+ytimg.com
+youtube.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+ytstatic.l.google.com
+youtubei.googleapis.com
+#
+www.youtube.com
+i.ytimg.com
+googlevideo.com
+r3---sn-cvh76nez.googlevideo.com
+android.clients.google.com
+ssl.google-analytics.com
+safebrowsing.googleapis.com
+spoc-pool-gtm.norton.com
+reports.crashlytics.com
+yt3.ggpht.com
+connectivitycheck.gstatic.com
+#
+googlevideo.com
+youtu.be
+youtube-nocookie.com
+youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+ytimg.com
+ytimg.l.google.com
+#
+0.0.0.0 www.bilibili.tv
+0.0.0.0 p.bstarstatic.com
+0.0.0.0 bstarstatic.com
+#
