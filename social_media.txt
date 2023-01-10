@@ -55,6 +55,11 @@ api.facebook.com
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 cdninstagram.com
 # 
+rgstatic.net
+researchgate.net
+#
+gossip.hirufm.lk
+#
 
 ###############################################
 # https://github.com/gieljnssns/Social-media-Blocklists
