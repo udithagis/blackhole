@@ -1,11 +1,18 @@
+watchthementalistonline.com
+vimeo.com
+d.tube
+metacafe.com
+9gag.com
+dailymotion.com
+
 #
-0.0.0.0 googlevideo.com
-0.0.0.0 ytimg.com
-0.0.0.0 youtube.com
-0.0.0.0 youtube-ui.l.google.com
-0.0.0.0 ytimg.l.google.com
-0.0.0.0 ytstatic.l.google.com
-0.0.0.0 youtubei.googleapis.com
+googlevideo.com
+ytimg.com
+youtube.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+ytstatic.l.google.com
+youtubei.googleapis.com
 #
 googlevideo.com
 ytimg.com
@@ -36,9 +43,10 @@ youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
 #
-0.0.0.0 www.bilibili.tv
-0.0.0.0 p.bstarstatic.com
-0.0.0.0 bstarstatic.com
+www.bilibili.tv
+bilibili.tv
+p.bstarstatic.com
+bstarstatic.com
 #
 
 # This blocklist helps Pi-Hole admin restrict access to youtube and its domains.
