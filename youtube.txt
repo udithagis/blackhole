@@ -47,6 +47,10 @@ www.bilibili.tv
 bilibili.tv
 p.bstarstatic.com
 bstarstatic.com
+bilibili.com
+hdslb.com
+space.bilibili.com
+hdslb.com
 #
 
 # This blocklist helps Pi-Hole admin restrict access to youtube and its domains.
