@@ -1,3 +1,6 @@
+wpad.lan
+wpad.lan 
+
 bing.com
 msn.com
 dns.com
