@@ -1,9 +1,32 @@
 wpad.lan
 wpad.lan 
 
+wpad.global
+wpad.ads
+wpad.group
+wpad.network
+wpad.dev
+wpad.office
+wpad.prod
+wpad.hsbc
+wpad.win
+wpad.world
+wpad.wan
+wpad.sap
+wpad.site
+wpad.net
+wpad.tv
+wpad.xyz
+wpad.co
+wpad.cn
+wpad.ru
+wpad.dat
+
 bing.com
 msn.com
+msn.net
 dns.com
+dns.net
 
 Wikipedia.org
 Instagram.com
