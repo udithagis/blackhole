@@ -1,3 +1,19 @@
+# Bing AI Revenge
+watson.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
+browser.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
+self.events.data.microsoft.com
+browser.events.data.microsoft.com
+login.microsoftonline.com
+activity.windows.com
+ntp.msn.com
+activity.windows.com
+browser.events.data.microsoft.com
+browser.events.data.microsoft.com
+ipv6.msftconnecttest.com
+
+#Proxy Detection
 wpad.lan
 wpad.lan 
 
@@ -22,6 +38,7 @@ wpad.cn
 wpad.ru
 wpad.dat
 
+# Bing AI Revenge
 bing.com
 msn.com
 msn.net
