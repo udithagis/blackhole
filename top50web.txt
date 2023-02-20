@@ -11,6 +11,7 @@ browser.events.data.microsoft.com
 login.microsoftonline.com
 browser.events.data.microsoft.com
 browser.events.data.microsoft.com
+edge.microsoft.com
 
 #Proxy Detection
 wpad.lan
