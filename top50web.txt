@@ -12,6 +12,8 @@ login.microsoftonline.com
 browser.events.data.microsoft.com
 browser.events.data.microsoft.com
 edge.microsoft.com
+ipv6.msftconnecttest.com
+ipv4.msftconnecttest.com
 
 #Proxy Detection
 wpad.lan
