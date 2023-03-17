@@ -2,6 +2,8 @@
 msn.com
 msn.net
 
+ahmia.fi
+
 #Proxy Detection
 wpad.lan
 wpad.lan 
