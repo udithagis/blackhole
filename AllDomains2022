@@ -16,6 +16,13 @@ https
 www
 web
 
+*.gov.lk 
+*.ac.lk
+*.lk
+
+*.ru 
+*.cn
+
 *.AAA
 *.AARP
 *.ABARTH
