@@ -1,13 +1,8 @@
-# Bing AI Revenge
-msn.com
-msn.net
-
 ahmia.fi
 
 #Proxy Detection
 wpad.lan
 wpad.lan 
-
 wpad.global
 wpad.ads
 wpad.group
@@ -61,7 +56,6 @@ Bilibili.com
 Tiktok.com
 Paypal.com
 Aliexpress.com
-
 gossip.hirufm.lk
 lankadeepa.lk
 newsfirst.lk
