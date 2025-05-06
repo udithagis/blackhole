@@ -1,0 +1,205 @@
+#2020506 update
+
+# Block list for Facebook, YouTube, Instagram, TikTok CDNs and related domains
+# Last updated: 2025-05-05
+
+
+127.0.0.1 ytimg.com
+127.0.0.1 s.ytimg.com
+127.0.0.1 i.ytimg.com
+127.0.0.1 tfbnw.net
+127.0.0.1 googlevideo.com
+127.0.0.1 fbcdn.net
+127.0.0.1 akamaihd.net
+127.0.0.1 facebook.net
+127.0.0.1 fbsbx.com
+127.0.0.1 doubleclick.net
+
+# Instagram CDN
+127.0.0.1 cdninstagram.com
+127.0.0.1 igcdn.com
+
+# TikTok CDN
+127.0.0.1 tiktokcdn.com
+127.0.0.1 tiktokcdn-us.com
+127.0.0.1 tiktokcdn-eu.com
+127.0.0.1 tiktokv.com
+127.0.0.1 bytedance.map.fastly.net
+
+# Block list for Facebook, YouTube, Instagram, TikTok CDNs and related domains
+# Last updated: 2025-05-06
+
+# ---- Facebook ----
+127.0.0.1 c10r.facebook.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 fbcdn-creative-a.akamaihd.net
+127.0.0.1 fbcdn-profile-a.akamaihd.net
+127.0.0.1 fbcdn-sphotos-a-a.akamaihd.net
+127.0.0.1 fbcdn.net
+127.0.0.1 fbexternal-a.akamaihd.net
+127.0.0.1 facebook.net
+127.0.0.1 fbpigeon.com
+127.0.0.1 fbsbx.com
+127.0.0.1 fbstatic-a.akamaihd.net
+127.0.0.1 fbstatic-b.akamaihd.net
+127.0.0.1 fbstatic-c.akamaihd.net
+127.0.0.1 fbstatic-d.akamaihd.net
+127.0.0.1 fbstatic-e.akamaihd.net
+127.0.0.1 fbstatic-f.akamaihd.net
+127.0.0.1 fbstatic-g.akamaihd.net
+127.0.0.1 fbstatic-h.akamaihd.net
+127.0.0.1 fbstatic-i.akamaihd.net
+127.0.0.1 fbstatic-j.akamaihd.net
+127.0.0.1 fbstatic-k.akamaihd.net
+127.0.0.1 fbstatic-l.akamaihd.net
+127.0.0.1 fbstatic-m.akamaihd.net
+127.0.0.1 fbstatic-n.akamaihd.net
+127.0.0.1 fbstatic-o.akamaihd.net
+127.0.0.1 fbstatic-p.akamaihd.net
+127.0.0.1 fbstatic-q.akamaihd.net
+127.0.0.1 fbstatic-r.akamaihd.net
+127.0.0.1 fbstatic-s.akamaihd.net
+127.0.0.1 fbstatic-t.akamaihd.net
+127.0.0.1 fbstatic-u.akamaihd.net
+127.0.0.1 fbstatic-v.akamaihd.net
+127.0.0.1 fbstatic-w.akamaihd.net
+127.0.0.1 fbstatic-x.akamaihd.net
+127.0.0.1 fbstatic-y.akamaihd.net
+127.0.0.1 fbstatic-z.akamaihd.net
+127.0.0.1 graph.facebook.com
+127.0.0.1 lookaside.facebook.com
+127.0.0.1 scontent-ams4-1.fbcdn.net
+127.0.0.1 scontent-arn2-1.fbcdn.net
+127.0.0.1 scontent-atl3-1.fbcdn.net
+127.0.0.1 scontent-bru2-1.fbcdn.net
+127.0.0.1 scontent-cdg2-1.fbcdn.net
+127.0.0.1 scontent-dfw5-1.fbcdn.net
+127.0.0.1 scontent-frt3-1.fbcdn.net
+127.0.0.1 scontent-gru2-1.fbcdn.net
+127.0.0.1 scontent-iad3-1.fbcdn.net
+127.0.0.1 scontent-lax3-1.fbcdn.net
+127.0.0.1 scontent-lga3-1.fbcdn.net
+127.0.0.1 scontent-lhr8-1.fbcdn.net
+127.0.0.1 scontent-mad1-1.fbcdn.net
+127.0.0.1 scontent-mia3-1.fbcdn.net
+127.0.0.1 scontent-mrs2-1.fbcdn.net
+127.0.0.1 scontent-mxp1-1.fbcdn.net
+127.0.0.1 scontent-ord5-1.fbcdn.net
+127.0.0.1 scontent-sea1-1.fbcdn.net
+127.0.0.1 scontent-sjc3-1.fbcdn.net
+127.0.0.1 scontent-sin6-1.fbcdn.net
+127.0.0.1 scontent-syd2-1.fbcdn.net
+127.0.0.1 scontent-vie1-1.fbcdn.net
+127.0.0.1 scontent-yyz1-1.fbcdn.net
+127.0.0.1 scontent.fbcdn.net
+127.0.0.1 tfbnw.net
+127.0.0.1 z-p42-chat-e2ee-ig.facebook.com
+
+# ---- YouTube ----
+127.0.0.1 ggpht.com
+127.0.0.1 googlevideo.com
+127.0.0.1 googleusercontent.com
+127.0.0.1 i.ytimg.com
+127.0.0.1 s.ytimg.com
+127.0.0.1 wide-youtube.l.google.com
+127.0.0.1 yt.be
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 ytimg.com
+127.0.0.1 youtube-nocookie.com
+127.0.0.1 youtube-ui.l.google.com
+127.0.0.1 youtube.googleapis.com
+127.0.0.1 youtubeeducation.com
+127.0.0.1 youtubeembeddedplayer.googleapis.com
+127.0.0.1 youtubefanfest.com
+127.0.0.1 youtubegaming.com
+127.0.0.1 youtubei.googleapis.com
+127.0.0.1 youtubekids.com
+127.0.0.1 youtubemobilesupport.com
+
+# ---- Instagram ----
+127.0.0.1 api.instagram.com
+127.0.0.1 cdninstagram.com
+127.0.0.1 i.instagram.com
+127.0.0.1 ig.me
+127.0.0.1 igcdn.com
+127.0.0.1 instagram-shv-01-ams2.fbcdn.net
+127.0.0.1 instagram-shv-01-atl1.fbcdn.net
+127.0.0.1 instagram-shv-01-dfw1.fbcdn.net
+127.0.0.1 instagram.c10r.facebook.com
+127.0.0.1 instagramstatic-a.akamaihd.net
+127.0.0.1 platform.instagram.com
+127.0.0.1 scontent-atl3-1.cdninstagram.com
+127.0.0.1 scontent-dfw5-1.cdninstagram.com
+127.0.0.1 scontent-fallback.cdninstagram.com
+127.0.0.1 scontent-iad3-1.cdninstagram.com
+127.0.0.1 scontent-lga3-1.cdninstagram.com
+127.0.0.1 scontent-mia3-1.cdninstagram.com
+127.0.0.1 scontent.cdninstagram.com
+127.0.0.1 static.cdninstagram.com
+
+# ---- TikTok ----
+127.0.0.1 abtest-sg-tiktok.byteoversea.com
+127.0.0.1 abtest-va-tiktok.byteoversea.com
+127.0.0.1 api-h2.tiktokv.com
+127.0.0.1 api.tiktokv.com
+127.0.0.1 api2-16-h2.musical.ly
+127.0.0.1 api2-21-h2.musical.ly
+127.0.0.1 api2.musical.ly
+127.0.0.1 api21-h2.tiktokv.com
+127.0.0.1 atomile.com
+127.0.0.1 bplslb.com
+127.0.0.1 bytecdn.cn
+127.0.0.1 byted.org
+127.0.0.1 bytedance.map.fastly.net
+127.0.0.1 byteoversea.com
+127.0.0.1 cdn77.org
+127.0.0.1 ecdnx.com
+127.0.0.1 footprint.net
+127.0.0.1 gcdn.co
+127.0.0.1 gts.byteoversea.net
+127.0.0.1 ib.tiktokv.com
+127.0.0.1 ibyteimg.com
+127.0.0.1 ibytedtos.com
+127.0.0.1 isnssdk.com
+127.0.0.1 lf1-ttcdn-tos.pstatp.com
+127.0.0.1 liveplay.myqcloud.com
+127.0.0.1 log.tiktokv.com
+127.0.0.1 log2.musical.ly
+127.0.0.1 mon.musical.ly
+127.0.0.1 muscdn.com
+127.0.0.1 musemuse.cn
+127.0.0.1 musical.ly
+127.0.0.1 p1-tt.byteimg.com
+127.0.0.1 p16-ad-sg.ibyteimg.com
+127.0.0.1 p16-tiktok-sg.ibyteimg.com
+127.0.0.1 p16-tiktok-sign-va-h2.ibyteimg.com
+127.0.0.1 p16-tiktok-va-h2.ibyteimg.com
+127.0.0.1 p16-tiktok-va.ibyteimg.com
+127.0.0.1 p16-tiktokcdn-com.akamaized.net
+127.0.0.1 p26-tt.byteimg.com
+127.0.0.1 p9-tt.byteimg.com
+127.0.0.1 pstatp.com
+127.0.0.1 queniuaa.com
+127.0.0.1 tiktok.com.c.footprint.net
+127.0.0.1 tiktokcdn-eu.com
+127.0.0.1 tiktokcdn-us.com
+127.0.0.1 tiktokcdn.com
+127.0.0.1 tiktokcdn.com.c.worldfcdn.com
+127.0.0.1 tiktokcdn.com.wsdvs.com
+127.0.0.1 tiktokcdn.liveplay.myqcloud.com
+127.0.0.1 tiktokd.org
+127.0.0.1 tiktokv.com
+127.0.0.1 tiktokv.us
+127.0.0.1 tlivecdn.com
+127.0.0.1 ttoversea.net
+127.0.0.1 ttoverseaus.net
+127.0.0.1 ttlivecdn.com
+127.0.0.1 v16a.tiktokcdn.com
+127.0.0.1 v16m.tiktokcdn.com
+127.0.0.1 v19.tiktokcdn.com
+127.0.0.1 worldfcdn.com
+127.0.0.1 worldfcdn2.com
+
+# ---- Shared/Ads (from original list or broad CDNs) ----
+127.0.0.1 akamaihd.net
+127.0.0.1 doubleclick.net
