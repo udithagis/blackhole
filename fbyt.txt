@@ -1,9 +1,11 @@
 #2020506 update
 
+#https://raw.githubusercontent.com/udithagis/blackhole/refs/heads/main/fbyt.txt
+
 # Block list for Facebook, YouTube, Instagram, TikTok CDNs and related domains
 # Last updated: 2025-05-05
 
-
+# Top 10
 127.0.0.1 ytimg.com
 127.0.0.1 s.ytimg.com
 127.0.0.1 i.ytimg.com
