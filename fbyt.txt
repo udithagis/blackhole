@@ -1,207 +1,202 @@
-#2020506 update
+# Host file with verified Social Media, YouTube CDN, and related Seed Domains
+# Last updated: 2025-05-07
 
-#https://raw.githubusercontent.com/udithagis/blackhole/refs/heads/main/fbyt.txt
-
-# Block list for Facebook, YouTube, Instagram, TikTok CDNs and related domains
-# Last updated: 2025-05-05
-
-# Top 10
-127.0.0.1 ytimg.com
-127.0.0.1 s.ytimg.com
-127.0.0.1 i.ytimg.com
 127.0.0.1 tfbnw.net
-127.0.0.1 googlevideo.com
-127.0.0.1 fbcdn.net
 127.0.0.1 akamaihd.net
 127.0.0.1 facebook.net
 127.0.0.1 fbsbx.com
 127.0.0.1 doubleclick.net
-
-# Instagram CDN
-127.0.0.1 cdninstagram.com
-127.0.0.1 igcdn.com
-
-# TikTok CDN
-127.0.0.1 tiktokcdn.com
-127.0.0.1 tiktokcdn-us.com
-127.0.0.1 tiktokcdn-eu.com
-127.0.0.1 tiktokv.com
-127.0.0.1 bytedance.map.fastly.net
-
-# Block list for Facebook, YouTube, Instagram, TikTok CDNs and related domains
-# Last updated: 2025-05-06
-
-# ---- Facebook ----
-127.0.0.1 c10r.facebook.com
-127.0.0.1 connect.facebook.net
-127.0.0.1 fbcdn-creative-a.akamaihd.net
-127.0.0.1 fbcdn-profile-a.akamaihd.net
-127.0.0.1 fbcdn-sphotos-a-a.akamaihd.net
+127.0.0.1 googlevideo.com
 127.0.0.1 fbcdn.net
-127.0.0.1 fbexternal-a.akamaihd.net
-127.0.0.1 facebook.net
-127.0.0.1 fbpigeon.com
-127.0.0.1 fbsbx.com
-127.0.0.1 fbstatic-a.akamaihd.net
-127.0.0.1 fbstatic-b.akamaihd.net
-127.0.0.1 fbstatic-c.akamaihd.net
-127.0.0.1 fbstatic-d.akamaihd.net
-127.0.0.1 fbstatic-e.akamaihd.net
-127.0.0.1 fbstatic-f.akamaihd.net
-127.0.0.1 fbstatic-g.akamaihd.net
-127.0.0.1 fbstatic-h.akamaihd.net
-127.0.0.1 fbstatic-i.akamaihd.net
-127.0.0.1 fbstatic-j.akamaihd.net
-127.0.0.1 fbstatic-k.akamaihd.net
-127.0.0.1 fbstatic-l.akamaihd.net
-127.0.0.1 fbstatic-m.akamaihd.net
-127.0.0.1 fbstatic-n.akamaihd.net
-127.0.0.1 fbstatic-o.akamaihd.net
-127.0.0.1 fbstatic-p.akamaihd.net
-127.0.0.1 fbstatic-q.akamaihd.net
-127.0.0.1 fbstatic-r.akamaihd.net
-127.0.0.1 fbstatic-s.akamaihd.net
-127.0.0.1 fbstatic-t.akamaihd.net
-127.0.0.1 fbstatic-u.akamaihd.net
-127.0.0.1 fbstatic-v.akamaihd.net
-127.0.0.1 fbstatic-w.akamaihd.net
-127.0.0.1 fbstatic-x.akamaihd.net
-127.0.0.1 fbstatic-y.akamaihd.net
-127.0.0.1 fbstatic-z.akamaihd.net
-127.0.0.1 graph.facebook.com
-127.0.0.1 lookaside.facebook.com
-127.0.0.1 scontent-ams4-1.fbcdn.net
-127.0.0.1 scontent-arn2-1.fbcdn.net
-127.0.0.1 scontent-atl3-1.fbcdn.net
-127.0.0.1 scontent-bru2-1.fbcdn.net
-127.0.0.1 scontent-cdg2-1.fbcdn.net
-127.0.0.1 scontent-dfw5-1.fbcdn.net
-127.0.0.1 scontent-frt3-1.fbcdn.net
-127.0.0.1 scontent-gru2-1.fbcdn.net
-127.0.0.1 scontent-iad3-1.fbcdn.net
-127.0.0.1 scontent-lax3-1.fbcdn.net
-127.0.0.1 scontent-lga3-1.fbcdn.net
-127.0.0.1 scontent-lhr8-1.fbcdn.net
-127.0.0.1 scontent-mad1-1.fbcdn.net
-127.0.0.1 scontent-mia3-1.fbcdn.net
-127.0.0.1 scontent-mrs2-1.fbcdn.net
-127.0.0.1 scontent-mxp1-1.fbcdn.net
-127.0.0.1 scontent-ord5-1.fbcdn.net
-127.0.0.1 scontent-sea1-1.fbcdn.net
-127.0.0.1 scontent-sjc3-1.fbcdn.net
-127.0.0.1 scontent-sin6-1.fbcdn.net
-127.0.0.1 scontent-syd2-1.fbcdn.net
-127.0.0.1 scontent-vie1-1.fbcdn.net
-127.0.0.1 scontent-yyz1-1.fbcdn.net
-127.0.0.1 scontent.fbcdn.net
-127.0.0.1 tfbnw.net
-127.0.0.1 z-p42-chat-e2ee-ig.facebook.com
+
+127.0.0.1 ytimg.com
+127.0.0.1 i.ytimg.com
+127.0.0.1 s.ytimg.com
 
 # ---- YouTube ----
-127.0.0.1 ggpht.com
 127.0.0.1 googlevideo.com
-127.0.0.1 googleusercontent.com
 127.0.0.1 i.ytimg.com
 127.0.0.1 s.ytimg.com
 127.0.0.1 wide-youtube.l.google.com
 127.0.0.1 yt.be
-127.0.0.1 yt3.ggpht.com
 127.0.0.1 ytimg.com
 127.0.0.1 youtube-nocookie.com
 127.0.0.1 youtube-ui.l.google.com
-127.0.0.1 youtube.googleapis.com
+127.0.0.1 youtube.googleapis.com # API and other services
 127.0.0.1 youtubeeducation.com
 127.0.0.1 youtubeembeddedplayer.googleapis.com
 127.0.0.1 youtubefanfest.com
 127.0.0.1 youtubegaming.com
-127.0.0.1 youtubei.googleapis.com
+127.0.0.1 youtubei.googleapis.com # Internal API
 127.0.0.1 youtubekids.com
 127.0.0.1 youtubemobilesupport.com
 
-# ---- Instagram ----
-127.0.0.1 api.instagram.com
+# ---- Meta (Facebook, Instagram) ----
 127.0.0.1 cdninstagram.com
-127.0.0.1 i.instagram.com
-127.0.0.1 ig.me
-127.0.0.1 igcdn.com
-127.0.0.1 instagram-shv-01-ams2.fbcdn.net
-127.0.0.1 instagram-shv-01-atl1.fbcdn.net
-127.0.0.1 instagram-shv-01-dfw1.fbcdn.net
-127.0.0.1 instagram.c10r.facebook.com
-127.0.0.1 instagramstatic-a.akamaihd.net
-127.0.0.1 platform.instagram.com
-127.0.0.1 scontent-atl3-1.cdninstagram.com
-127.0.0.1 scontent-dfw5-1.cdninstagram.com
-127.0.0.1 scontent-fallback.cdninstagram.com
-127.0.0.1 scontent-iad3-1.cdninstagram.com
-127.0.0.1 scontent-lga3-1.cdninstagram.com
-127.0.0.1 scontent-mia3-1.cdninstagram.com
-127.0.0.1 scontent.cdninstagram.com
-127.0.0.1 static.cdninstagram.com
+127.0.0.1 facebook.com # Main Facebook domain
+127.0.0.1 facebook-hardware.com
+127.0.0.1 facebook.net # Network infrastructure
+127.0.0.1 fbcdn.net # Facebook CDN
+127.0.0.1 fbpigeon.com # Facebook services
+127.0.0.1 fbsbx.com # Facebook CDN and static resources
+127.0.0.1 ig.me # Instagram URL shortener
+127.0.0.1 igcdn.com # Instagram CDN (may be part of cdninstagram.com)
+127.0.0.1 igtv.com # Instagram TV
+127.0.0.1 instagr.am # Instagram URL shortener
+127.0.0.1 instagram.com # Main Instagram domain
+127.0.0.1 tfbnw.net # Facebook network
+
+# ---- X (formerly Twitter) ----
+127.0.0.1 twimg.com # Twitter image CDN
 
 # ---- TikTok ----
-127.0.0.1 abtest-sg-tiktok.byteoversea.com
-127.0.0.1 abtest-va-tiktok.byteoversea.com
-127.0.0.1 api-h2.tiktokv.com
-127.0.0.1 api.tiktokv.com
-127.0.0.1 api2-16-h2.musical.ly
-127.0.0.1 api2-21-h2.musical.ly
-127.0.0.1 api2.musical.ly
-127.0.0.1 api21-h2.tiktokv.com
-127.0.0.1 atomile.com
-127.0.0.1 bplslb.com
-127.0.0.1 bytecdn.cn
-127.0.0.1 byted.org
-127.0.0.1 bytedance.map.fastly.net
-127.0.0.1 byteoversea.com
-127.0.0.1 cdn77.org
-127.0.0.1 ecdnx.com
-127.0.0.1 footprint.net
-127.0.0.1 gcdn.co
-127.0.0.1 gts.byteoversea.net
-127.0.0.1 ib.tiktokv.com
-127.0.0.1 ibyteimg.com
-127.0.0.1 ibytedtos.com
-127.0.0.1 isnssdk.com
-127.0.0.1 lf1-ttcdn-tos.pstatp.com
-127.0.0.1 liveplay.myqcloud.com
-127.0.0.1 log.tiktokv.com
-127.0.0.1 log2.musical.ly
-127.0.0.1 mon.musical.ly
-127.0.0.1 muscdn.com
-127.0.0.1 musemuse.cn
-127.0.0.1 musical.ly
-127.0.0.1 p1-tt.byteimg.com
-127.0.0.1 p16-ad-sg.ibyteimg.com
-127.0.0.1 p16-tiktok-sg.ibyteimg.com
-127.0.0.1 p16-tiktok-sign-va-h2.ibyteimg.com
-127.0.0.1 p16-tiktok-va-h2.ibyteimg.com
-127.0.0.1 p16-tiktok-va.ibyteimg.com
-127.0.0.1 p16-tiktokcdn-com.akamaized.net
-127.0.0.1 p26-tt.byteimg.com
-127.0.0.1 p9-tt.byteimg.com
-127.0.0.1 pstatp.com
-127.0.0.1 queniuaa.com
-127.0.0.1 tiktok.com.c.footprint.net
-127.0.0.1 tiktokcdn-eu.com
-127.0.0.1 tiktokcdn-us.com
 127.0.0.1 tiktokcdn.com
-127.0.0.1 tiktokcdn.com.c.worldfcdn.com
-127.0.0.1 tiktokcdn.com.wsdvs.com
-127.0.0.1 tiktokcdn.liveplay.myqcloud.com
-127.0.0.1 tiktokd.org
-127.0.0.1 tiktokv.com
-127.0.0.1 tiktokv.us
-127.0.0.1 tlivecdn.com
-127.0.0.1 ttoversea.net
-127.0.0.1 ttoverseaus.net
-127.0.0.1 ttlivecdn.com
-127.0.0.1 v16a.tiktokcdn.com
-127.0.0.1 v16m.tiktokcdn.com
-127.0.0.1 v19.tiktokcdn.com
-127.0.0.1 worldfcdn.com
-127.0.0.1 worldfcdn2.com
+# Note: TikTok also uses various other domains and CDNs like Akamai and Fastly,
+# often with subdomains specific to regions or content types.
+# tiktokcdn.com is a primary seed domain.
 
-# ---- Shared/Ads (from original list or broad CDNs) ----
+# ---- Snapchat ----
+127.0.0.1 sc-cdn.net # Snapchat CDN
+
+# ---- Pinterest ----
+127.0.0.1 pinimg.com # Pinterest image CDN
+
+# ---- LinkedIn ----
+127.0.0.1 licdn.com # LinkedIn CDN (e.g., media.licdn.com, static.licdn.com)
+127.0.0.1 media.licdn.com # Specific LinkedIn media CDN
+127.0.0.1 static.licdn.com # Specific LinkedIn static content CDN
+
+# ---- Reddit ----
+127.0.0.1 i.redd.it     # Primarily for image hosting
+127.0.0.1 redditmedia.com # Hosts images, videos, and other static assets
+127.0.0.1 styles.redditmedia.com # For CSS/JS assets
+127.0.0.1 v.redd.it     # Primarily for video hosting
+
+# ---- Discord ----
+127.0.0.1 cdn.discordapp.com
+127.0.0.1 discordcdn.com # Discord CDN
+127.0.0.1 media.discordapp.net
+
+
+# ---- General CDNs frequently used by Social Media (Optional - include if broad blocking is intended) ----
+# The following are major CDNs. Blocking them might affect many other sites beyond social media.
+# Only uncomment if you understand the broad impact.
 127.0.0.1 akamaihd.net
+127.0.0.1 akamaized.net
+127.0.0.1 edgekey.net # Akamai
+127.0.0.1 edgesuite.net # Akamai
+127.0.0.1 fastly.net
+
+# ---- Advertising/Tracking Networks (Optional - include if broad blocking is intended) ----
+# These are primarily for advertising and tracking, not core content delivery for social media functionality.
 127.0.0.1 doubleclick.net
+
+# End of social media CDN and related seed domains list
+
+
+
+
+# Windows Hosts File Entries for Blocking Websites
+#
+# This file is intended to block access to various social media,
+# video streaming, Sri Lankan gossip/blogging/news, and short video sites.
+# Add these lines to your Windows hosts file located at:
+# C:\Windows\System32\drivers\etc\hosts
+# Remember to open Notepad as an Administrator to edit the hosts file.
+#
+# Lines starting with # are comments and are ignored by the system.
+# The format is: 127.0.0.1 domain.com
+
+# 1. Social Media Seed Domains
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 web.facebook.com
+127.0.0.1 wap.facebook.com
+127.0.0.1 fb.com
+127.0.0.1 www.fb.com
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 linkedin.com
+127.0.0.1 www.linkedin.com
+127.0.0.1 discord.com
+127.0.0.1 www.discord.com
+127.0.0.1 discord.gg
+127.0.0.1 www.discord.gg
+127.0.0.1 discordapp.com
+127.0.0.1 www.discordapp.com
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0.1 x.com
+127.0.0.1 www.x.com
+127.0.0.1 pinterest.com
+127.0.0.1 www.pinterest.com
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+127.0.0.1 old.reddit.com # Popular alternative interface
+127.0.0.1 new.reddit.com # Popular alternative interface
+127.0.0.1 snapchat.com
+127.0.0.1 www.snapchat.com
+127.0.0.1 web.snapchat.com
+# 127.0.0.1 whatsapp.com
+# 127.0.0.1 www.whatsapp.com
+# 127.0.0.1 web.whatsapp.com
+127.0.0.1 telegram.org
+127.0.0.1 www.telegram.org
+127.0.0.1 web.telegram.org
+127.0.0.1 t.me
+127.0.0.1 www.t.me
+127.0.0.1 threads.net # Instagram's Threads
+127.0.0.1 www.threads.net
+127.0.0.1 tumblr.com
+127.0.0.1 www.tumblr.com
+
+# 2. Video Streaming Seed Domains
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 m.youtube.com # Mobile YouTube
+127.0.0.1 music.youtube.com
+127.0.0.1 youtu.be # YouTube short domain
+127.0.0.1 www.youtu.be
+127.0.0.1 twitch.tv
+127.0.0.1 www.twitch.tv
+127.0.0.1 netflix.com
+127.0.0.1 www.netflix.com
+127.0.0.1 primevideo.com
+127.0.0.1 www.primevideo.com
+127.0.0.1 amazonvideo.com # Might redirect or be used
+127.0.0.1 www.amazonvideo.com
+127.0.0.1 hulu.com
+127.0.0.1 www.hulu.com
+127.0.0.1 disneyplus.com
+127.0.0.1 www.disneyplus.com
+127.0.0.1 vimeo.com
+127.0.0.1 www.vimeo.com
+127.0.0.1 dailymotion.com
+127.0.0.1 www.dailymotion.com
+127.0.0.1 rumble.com
+127.0.0.1 www.rumble.com
+127.0.0.1 odysee.com
+127.0.0.1 www.odysee.com
+127.0.0.1 bilibili.com
+127.0.0.1 www.bilibili.com
+127.0.0.1 bilibili.tv
+127.0.0.1 www.bilibili.tv
+
+# 4. Short Video Sites Seed Domains
+# Many short videos are on platforms already listed (YouTube Shorts, Instagram Reels, TikTok)
+127.0.0.1 tiktok.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 m.tiktok.com # Mobile TikTok
+127.0.0.1 likee.video
+127.0.0.1 www.likee.video
+127.0.0.1 kwai.com
+127.0.0.1 www.kwai.com
+127.0.0.1 streamable.com # Video hosting often used for short clips
+127.0.0.1 www.streamable.com
+127.0.0.1 triller.co
+127.0.0.1 www.triller.co
+
+# End of list. Remember to save the hosts file and a system reboot
+# or flushing the DNS cache (ipconfig /flushdns in command prompt) might be needed
+# for changes to take effect immediately.
+
