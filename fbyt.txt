@@ -1,6 +1,8 @@
 # Host file with verified Social Media, YouTube CDN, and related Seed Domains
 # Last updated: 2025-05-07
 
+# ~CORE~
+
 127.0.0.1 tfbnw.net
 127.0.0.1 akamaihd.net
 127.0.0.1 facebook.net
@@ -12,6 +14,12 @@
 127.0.0.1 ytimg.com
 127.0.0.1 i.ytimg.com
 127.0.0.1 s.ytimg.com
+
+# ~Kaspersky~
+127.0.0.1 Inputsuggestions.msdxcdn.Microsoft.com
+127.0.0.1 inputsuggestions.msdxcdn.microsoft.com
+127.0.0.1 favicon.ico
+127.0.0.1 favicon.io
 
 # ---- YouTube ----
 127.0.0.1 googlevideo.com
